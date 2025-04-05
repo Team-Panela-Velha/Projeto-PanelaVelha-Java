@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
-import Card from "../../components/CardReceitas"
+import Card from "../components/CardReceitas"
 
 const Receitas = () => {
     const [receitas, setReceitas] = useState([]);

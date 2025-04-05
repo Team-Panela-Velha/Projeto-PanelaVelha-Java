@@ -1,8 +1,8 @@
-import Garfo from "../../assets/img/garfo-e-faca.png";
-import Relogio from "../../assets/img/despertar.png";
-import Chefe from "../../assets/img/chefe-de-cozinha.png";
-import Nivel from "../../assets/img/elevacao.png";
-import FormAvaliacao from "../../components/FormAvaliacao";
+import Garfo from "../assets/img/garfo-e-faca.png";
+import Relogio from "../assets/img/despertar.png";
+import Chefe from "../assets/img/chefe-de-cozinha.png";
+import Nivel from "../assets/img/elevacao.png";
+import FormAvaliacao from "../components/FormAvaliacao";
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
